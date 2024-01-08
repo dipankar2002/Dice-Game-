@@ -34,5 +34,5 @@ if(randNumber_1 === randNumber_2) {
 } else if(randNumber_1 > randNumber_2) {
     document.querySelector("h2").innerHTML = "Player 1 Won"
 } else if(randNumber_1 < randNumber_2) {
-    document.querySelector("h2").innerHTML = "Fuck Player 2 Won"
+    document.querySelector("h2").innerHTML = "Player 2 Won"
 }
